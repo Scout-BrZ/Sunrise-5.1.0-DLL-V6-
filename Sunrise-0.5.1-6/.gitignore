@@ -1,0 +1,22 @@
+/.vs/
+/.idea/
+/.vscode/
+/.direnv/
+/.xwin-cache
+/.cache/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.aps
+*.log
+/Sunrise/build/
+
+# CMake build files
+/build/
+/out/
+/docs/
+/Sunrise/docs/
+
+# Local LAN multiplayer settings (personal IP and Steam id)
+lan-settings/
